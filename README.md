@@ -26,11 +26,11 @@ A collection of my university projects and assignments, organized by academic ye
 
 ### 📍 Semester 2  
 - **Computer Vision Project**
-  - *Face Recognition System*: A simple face detection and recognition project using OpenCV (or similar libraries), with image input and recognition output.
+  - `Face Recognition System`: A simple face detection and recognition project using OpenCV (or similar libraries), with image input and recognition output.
 
 - **AI Projects**
-  - *Connect4*: Implementation of the classic Connect Four game with an AI opponent using the Minimax algorithm.
-  - *Alzheimer's Detection*: A rule-based or ML-assisted system for early Alzheimer’s detection using logical patterns or basic classification.
+  - `Connect4`: Implementation of the classic Connect Four game with an AI opponent using the Minimax algorithm.
+  - `Alzheimer's Detection`: A rule-based or ML-assisted system for early Alzheimer’s detection using logical patterns or basic classification.
 
 ---
 
