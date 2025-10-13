@@ -38,6 +38,21 @@ A collection of my university projects and assignments, organized by academic ye
 
 ### 📍 Semester 1
 
+- **Compiler Project**
+     - `ArcaneQuest`: A magical, RPG-inspired programming language where code becomes spells, functions turn into quests, and logic unfolds like an epic adventure.
+
+- **Data Mining**
+  - **Assignments:**
+    - `Supermarket Sales EDA Assignment `: EDA on the Supermarket Sales dataset to analyze customer behavior, product performance, and sales trends with visualizations and key KPIs.
+    
+  - **Project:**
+    - 
+
+- **Animation**
+    - **Tasks:**
+      - `Task1`: 
+
+- **Embedded Systems**  
 
 ### 📍 Semester 2
-
+- *Coming Soon...*
