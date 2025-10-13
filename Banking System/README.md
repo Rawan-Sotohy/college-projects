@@ -27,9 +27,13 @@ A simple command-line Banking System implemented in C++ as a practical applicati
 ### ⚙️ Features
 
 ✅ Create and manage accounts with unique account numbers
+
 🔒 Password protection for deleting and withdrawing
+
 💰 Deposit and withdraw money
+
 📊 View balance and number of active accounts
+
 📚 Demonstrates core Linked List operations: insert, delete, traverse
 
 
