@@ -45,14 +45,12 @@ A collection of my university projects and assignments, organized by academic ye
   - **Assignments:**
     - `Supermarket Sales EDA Assignment `: EDA on the Supermarket Sales dataset to analyze customer behavior, product performance, and sales trends with visualizations and key KPIs.
     
-  - **Project:**
-    - 
 
 - **Animation**
     - **Tasks:**
-      - `Task1`: 
-
-- **Embedded Systems**  
+      - `Task1`: Flappy Bird - A classic arcade game where you tap to make a bird flap through endless columns without crashing.
+      - `Task2`: Meow Adventure - A 2D platformer game where you play as Kitty, a brave cat exploring exciting worlds full of challenges and collectibles. 
+ 
 
 ### 📍 Semester 2
 - *Coming Soon...*
