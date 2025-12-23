@@ -69,7 +69,7 @@ A collection of my university projects and assignments, organized by academic ye
 
 - **Advanced Data Base**
   - **Project:**
-    - `bplus-tree`: 
+    - `bplus-tree`: An interactive web-based B+ Tree data structure visualization tool with a C-based CGI backend and HTML/CSS frontend.
       🔗 [Project Repo](https://github.com/Rawan-Sotohy/bplus-tree)
           
 ### 📍 Semester 2
