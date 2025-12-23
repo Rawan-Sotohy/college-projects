@@ -40,17 +40,32 @@ A collection of my university projects and assignments, organized by academic ye
 
 - **Compiler Project**
      - `ArcaneQuest`: A magical, RPG-inspired programming language where code becomes spells, functions turn into quests, and logic unfolds like an epic adventure.
-
+       
+       🔗 [Project Repo](https://github.com/Rawan-Sotohy/arcanequest-lang)
+       
 - **Data Mining**
   - **Assignments:**
     - `Supermarket Sales EDA Assignment `: EDA on the Supermarket Sales dataset to analyze customer behavior, product performance, and sales trends with visualizations and key KPIs.
     
+  -**Project**
+    - `Air Quality (AQI) Forecasting System`:An LSTM-based deep learning model for predicting PM2.5 air pollution using time-series environmental data.
 
+      🔗 [Project Repo](https://github.com/Rawan-Sotohy/aqi_forecasting)
+    
+- **Embedded System**
+  - **Assignments:**
+    - ``: 
+    - ``: 
+    
+  -**Project**
+    - ``: 
+    
 - **Animation**
     - **Tasks:**
       - `Task1`: Flappy Bird - A classic arcade game where you tap to make a bird flap through endless columns without crashing.
       - `Task2`: Meow Adventure - A 2D platformer game where you play as Kitty, a brave cat exploring exciting worlds full of challenges and collectibles. 
- 
+  -**Project**
+    - 
 
 ### 📍 Semester 2
 - *Coming Soon...*
