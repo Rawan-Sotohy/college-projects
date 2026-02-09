@@ -6,13 +6,13 @@ A collection of my university projects and assignments, organized by academic ye
 
 ## 🧩 Year 2
 
-### 📍 Semester 1 – Object-Oriented Programming (Java)
-- **Geometric Object Area & Perimeter Calculator**  
-  A Java application to calculate the area and perimeter of geometric shapes using OOP principles.
+### 📍 Semester 1
+- **Object-Oriented Programming**
+   - `Geometric Object Area & Perimeter Calculator` : A Java application to calculate the area and perimeter of geometric shapes using OOP principles.
 
-### 📍 Semester 2 – Data Structures (C++)
-- **Banking System**  
-  A basic banking system implemented using C++ and core data structure concepts.
+### 📍 Semester 2 
+- **Data Structures**
+  - `Banking System` : A basic banking system implemented using C++ and core data structure concepts.
 
 ---
 
