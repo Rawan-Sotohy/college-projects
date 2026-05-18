@@ -73,4 +73,19 @@ A collection of my university projects and assignments, organized by academic ye
       🔗 [Project Repo](https://github.com/Rawan-Sotohy/bplus-tree)
           
 ### 📍 Semester 2
-- *Coming Soon...*
+
+- **Parallel Computing**
+  - `Hybrid Parallel System`: A parallel system using MPI, OpenMP, and CUDA that distributes tasks across 10–11 processes for factorial computation, vowel counting, file splitting, and distributed matrix multiplication.  🔗 [Project Repo](https://github.com/Rawan-Sotohy/hybrid-parallel-system)
+
+- **Computer Security**
+  - `Cryptography Lab`: A MATLAB-based toolkit implementing 12 classical and modern encryption algorithms including Caesar, Vigenère, Playfair, Hill, RC4, RSA, and more — with a CLI for encryption and decryption.  🔗 [Project Repo](https://github.com/Rawan-Sotohy/Cryptography-Lab)
+
+- **Distributed Data Base**
+  - `Distributed Database System`: A master/slave distributed database built with Go, Python, and Node.js — featuring automatic replication, fault tolerance, full CRUD, and a web GUI dashboard.  🔗 [Project Repo](https://github.com/Rawan-Sotohy/distributed-db-system)
+
+- **Intelligent Systems**
+  - `AI Startup Evaluator`: A multi-agent agentic workflow system built with LangChain and LangGraph that analyzes startup ideas using specialized agents for market research, competitor analysis, SWOT, and financial risk — delivering a scored investment report.  🔗 [Project Repo](https://github.com/Rawan-Sotohy/AI-Startup-Evaluator)
+    
+---
+
+> This marks the end of my university journey — four years of building, learning, and growing. Grateful for every project, every bug, and every breakthrough. 🎓✨
